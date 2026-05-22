@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --color-bg: #ffffff;
+  --color-text: #0b1220;
+  --color-accent: #c49a6c;
+}
+
+*{box-sizing:border-box}
+
+body {
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+h1,h2,h3,h4{ font-family: 'Playfair Display', serif }
+
+.btn-accent{ background-color: var(--color-accent); color: #0b1220 }
+

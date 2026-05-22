@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "Classic Linen Shirt",
+    "price": 49.99,
+    "category": "Shirts",
+    "image": "https://images.unsplash.com/photo-1521334884684-d80222895322?w=800&q=80",
+    "description": "Premium linen shirt with breathable fabric."
+  },
+  {
+    "id": "p2",
+    "title": "Tailored Blazer",
+    "price": 129.99,
+    "category": "Jackets",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=80",
+    "description": "Structured blazer for a refined look."
+  },
+  {
+    "id": "p3",
+    "title": "Premium Denim Jeans",
+    "price": 79.99,
+    "category": "Bottoms",
+    "image": "https://images.unsplash.com/photo-1530845641897-8f1b9042d3a9?w=800&q=80",
+    "description": "Comfort-fit premium denim with dark wash."
+  }
+]
